@@ -1,7 +1,7 @@
 ---
 title: "個人網頁與簡介"
 author: "Peiyu"
-date: "10/7/2021"
+date: "`r format(Sys.time(), '%Y/%m/%d %H:%m:%S')`"
 output: html_document
 ---
 
